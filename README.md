@@ -85,11 +85,11 @@ Wazuh successfully detected the deleted user attempts and generated Windows Secu
 **Skills Demonstrated**
 
 
-SIEM Administration
-Wazuh Deployment
-Windows Security Monitoring
-Event Log Analysis
-Threat Hunting
-Security Alert Investigation
-Linux Administration
-Endpoint Monitoring
+1. SIEM Administration
+2. Wazuh Deployment
+3. Windows Security Monitoring
+4. Event Log Analysis
+5. Threat Hunting
+6. Security Alert Investigation
+7. Linux Administration
+8. Endpoint Monitoring
