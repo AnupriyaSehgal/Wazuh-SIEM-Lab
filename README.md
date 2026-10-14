@@ -26,21 +26,21 @@ Threat hunting
 The Windows endpoint was successfully enrolled and connected to the Wazuh Manager.
 
 
-![ agent-active]( screenshots/agent-active.png)
+![agent-active](screenshots/agent-active.png)
 
 **Event Detection**
 Test User Creation
 The following alert was generated after creating a Windows account called testuser.
 
 
-![ testuser-event]( screenshots/testuser-event.png)
+![testuser-event](Screenshots/testuser-event.png)
 
 
 **Lab User Creation**
 The following alert was generated after creating a Windows account called labuser.
 
 screenshots/labuser-event.png
-![ labuser-event]( screenshots/labuser-event.png)
+![labuser-event](Screenshots/labuser-event.png)
 
 
 **Failed Login Detection**
@@ -48,7 +48,7 @@ To test authentication monitoring, multiple invalid login attempts were performe
 
 Wazuh successfully detected the failed login attempts and generated Windows Security Event ID 4625.
 
-![ failed-login]( Screenshots/failed-login-event.png)
+![failed-login]( Screenshots/failed-login-event.png)
 
 
 **Security Configuration Assessment (SCA)**
