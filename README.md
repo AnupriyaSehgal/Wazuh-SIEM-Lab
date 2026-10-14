@@ -26,7 +26,7 @@ Threat hunting
 The Windows endpoint was successfully enrolled and connected to the Wazuh Manager.
 
 
-![agent-active](screenshots/agent-active.png)
+![agent-active](Screenshots/agent-active.png)
 
 **Event Detection**
 Test User Creation
@@ -75,7 +75,16 @@ Event trend analysis
 
 ![ threat-hunting]( Screenshots/threat-hunting-dashboard.png)
 
+**User-Deletion Detection**
+The following alert was generated after deleting a User called labuser.
+
+Wazuh successfully detected the deleted user attempts and generated Windows Security Event ID 4726.
+
+![user-deletion]( Screenshots/user-deletion-event.png)
+
 **Skills Demonstrated**
+
+
 SIEM Administration
 Wazuh Deployment
 Windows Security Monitoring
