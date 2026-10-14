@@ -1,9 +1,7 @@
-<img width="4032" height="878" alt="image" src="https://github.com/user-attachments/assets/02fd785f-a12a-4b7e-ae37-4bf101e3aaec" /><img width="2317" height="2268" alt="image" src="https://github.com/user-attachments/assets/4a430352-08b3-474f-b66f-f7175b1621a7" /># Wazuh-SIEM-Lab
 
 
 
-
-Project Overview
+**Project Overview**
 This project demonstrates the deployment and configuration of a Security Information and Event Management (SIEM) solution using Wazuh.
 
 The objective was to monitor a Windows 11 endpoint from a Linux-based Wazuh server and analyze security events in real time.
